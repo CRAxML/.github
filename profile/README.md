@@ -8,7 +8,7 @@ Please use issues to start brainstorming sessions for collaborations. Usage of l
 
 ## Repositories
 
-Use separate repositories for different collaborations so that those involved can pull and push to their individual project as needed. Refrain from pushing large data files to repositories. Third-party applications such as Dropbox are encouraged for sharing of large data files or directories.
+Use separate repositories for different collaborations so that those involved can pull and push to their individual project as needed. Refrain from pushing large data files to repositories. Third-party applications such as Dropbox are encouraged for sharing of large data files or directories. Another option is to use [git LFS](https://git-lfs.github.com/) that is supported by Github.
 
 ## Teams
 
